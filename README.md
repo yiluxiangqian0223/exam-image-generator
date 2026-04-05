@@ -42,7 +42,7 @@
 ### 安装步骤
 
 1. **克隆仓库**
-bash
+```bash
 git clone https://github.com/yourusername/exam-image-generator.git
 cd exam-image-generator
 ```
