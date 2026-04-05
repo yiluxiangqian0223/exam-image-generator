@@ -43,7 +43,7 @@
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/yourusername/exam-image-generator.git
+git clone https://github.com/yiluxiangqian0223/exam-image-generator.git
 cd exam-image-generator
 ```
 
@@ -192,7 +192,7 @@ files = generator.generate_all_rooms(
 ### 环境设置
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/exam-image-generator.git
+git clone https://github.com/yiluxiangqian0223/exam-image-generator.git
 cd exam-image-generator
 
 # 创建开发环境
@@ -265,7 +265,7 @@ A: 检查依赖是否正确安装，确保有足够的磁盘空间。
 遇到问题？请查看：
 - [Issues](https://github.com/yourusername/exam-image-generator/issues) - 提交bug报告
 - [Discussions](https://github.com/yourusername/exam-image-generator/discussions) - 讨论功能需求
-- 邮箱：support@example.com
+- 邮箱：quhongsss@qq.com
 
 ## 🙏 致谢
 
@@ -291,13 +291,3 @@ MIT许可证允许：
 🐛 发现问题？请提交 [Issue](https://github.com/yourusername/exam-image-generator/issues/new)
 
 ---
-
-## 更新日志
-
-### v1.0.0 (2024-06-01)
-- ✅ 初始版本发布
-- ✅ 支持Excel数据导入
-- ✅ 支持照片集成
-- ✅ 生成标准化PDF输出
-- ✅ 支持批量处理
-``````
