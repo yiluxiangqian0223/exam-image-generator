@@ -1,9 +1,3 @@
-```# Exam Image Generator
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![Status](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/yourusername/exam-image-generator/releases)
-
 考场图像信息核对单生成工具 - 用于创建标准化考试管理文档
 
 ## 📋 目录
